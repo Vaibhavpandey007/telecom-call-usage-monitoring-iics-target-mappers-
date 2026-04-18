@@ -81,10 +81,6 @@ telecom-cdr-validation-high-usage-alerts/
 │   ├── telecom_customer_tower_join_mapping.xml
 │   └── telecom_high_usage_alert_mapping.xml
 │
-├── taskflows/
-│   ├── telecom_email_notification_taskflow.xml
-│   └── telecom_audit_logging_taskflow.xml
-│
 ├── sql/
 │   ├── create_stage_tables.sql
 │   ├── create_final_tables.sql
